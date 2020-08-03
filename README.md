@@ -21,6 +21,8 @@ I'm a native from Brazil, so I speak Portuguese, but I also speak English and Fr
 
 My interests are random and feature a wide variety of topics, something I've been unambiguously complimented on and criticized for. If you want to know more, do check my website out: [fanaro.com.br][my_website].
 
+Another major on-and-off interest of mine is in the game of Go (Baduk or Weiqi). I have some articles about it in my website and have some videos on my YouTube channel as well &mdash; the videos are in Portuguese.
+
 
 [my_website]: https://fanaro.com.br/
 [instagram]: https://www.instagram.com/fanaro009/
