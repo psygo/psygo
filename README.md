@@ -2,7 +2,7 @@
 
 ( 💻 Dev | Design 🎨 ) { 💙 Flutter | Dart 🎯 }
 
-I'm currently a solo developer creating apps and websites with Flutter and Dart.
+I'm currently a solo developer creating apps and websites with Flutter and Dart. I also have experience with Docker, Python, Django, JS, HTML, CSS, Kubernetes and some other stuff, however for most of these I would have to dust off my knowledge before fully using it.
 
 I'm a native from Brazil, so I speak Portuguese, but I also speak English and French.
 
