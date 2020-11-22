@@ -1,10 +1,10 @@
 ## 1. Summary
 
-( 💻 Dev | Design 🎨 ) { 💙 Flutter | Dart 🎯 }
+( 💻 Dev | Design 🎨 ) { 💙 Flutter | Dart 🎯 } { 💾 TypeScript JS | HTML CSS 🖌 }
 
-I'm currently a solo developer creating apps and websites with Flutter and Dart. I also have experience with Docker, Python, Django, JS, HTML, CSS, Kubernetes and some other stuff, however for most of these I would have to dust off my knowledge before fully using it.
+I'm currently a solo developer creating apps and websites with Flutter, Dart, TypeScript, JavaScript, HTML and CSS. I also have experience with Docker, Python, Django, Kubernetes and some other stuff. However for most of these I would have to dust off my knowledge before fully using it back again.
 
-I'm a native from Brazil, so I speak Portuguese, but I also speak English and French.
+I'm a Brazilian native, so I speak Portuguese, but I also speak English and French.
 
 ## 2. My Published/Open Software
 
@@ -12,8 +12,8 @@ So far, as published/open software, I have:
 
 - [YouTube Keyboard Navigation Extension][youtube_kbd_nav]: a browser extension which adds keyboard shortcuts to YouTube's browser UI.
     - Made with Dart 🎯
-    - Currently in *alpha*.
-    - Currently working with Chrome, Firefox and Edge.
+    - Quite stable, I use it on a daily basis. It still conflicts with some of YouTube's UI, but this problem is quite minimal.
+    - Currently working with Chrome, Edge and Firefox, though full support for Firefox won't be maintained.
 
 
 [youtube_kbd_nav]: https://github.com/FanaroEngineering/youtube_kbd_nav
@@ -40,7 +40,7 @@ So far, as published/open software, I have:
 
 My interests are random and feature a wide variety of topics, something I've been unambiguously complimented on and criticized for. If you want to know more, do check my website out: [fanaro.com.br][my_website].
 
-Another major on-and-off interest of mine is in the game of Go (Baduk or Weiqi). I have some articles about it in my website and have some videos on my YouTube channel as well &mdash; the videos are in Portuguese.
+Another major on-and-off interest of mine is in the game of Go (Baduk or Weiqi (囲碁 or 바둑 or 围棋)). I have some articles about it in my website and have some videos on my YouTube channel as well &mdash; the videos are in Portuguese.
 
 
 [my_website]: https://fanaro.com.br/
