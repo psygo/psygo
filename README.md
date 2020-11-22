@@ -14,20 +14,26 @@ So far, as published/open software, I have:
     - Made with Dart 🎯
     - Quite stable, I use it on a daily basis. It still conflicts with some of YouTube's UI, but this problem is quite minimal.
     - Currently working with Chrome, Edge and Firefox, though full support for Firefox won't be maintained.
+- [OGS Keyboard Navigation Extension][ogs_kbd_nav]: a browser extension for playing go on [OGS][ogs] with only the keyboard.
+    - Made with TypeScript.
+    - It offers a way of navigating the online Goban with your arrow keys or typing in the coordinates.
 
 
+[ogs]: https://online-go.com
+[ogs_kbd_nav]: https://github.com/FanaroEngineering/ogs_kbd_nav
 [youtube_kbd_nav]: https://github.com/FanaroEngineering/youtube_kbd_nav
 
 ## 3. Contributions
 
 - [Fast Immutable Collections][fast_immutable_collections]: Immutable collections for Dart, which are also faster than its competitors, like [kt_dart][kt_dart] and [built_collection][built_collection].
-    - @marcglasberg asked me if I wanted to participate in his project as a contributor. Almost all of the key ideas are his.
-    - Should be done in the next few weeks.
+    - [@marcglasberg][marcglasberg] asked me if I wanted to participate in his project as a contributor. Almost all of the key ideas are his.
+    - Should be done in the next few weeks at most.
 
 
 [built_collection]: https://github.com/google/built_collection.dart
 [fast_immutable_collections]: https://github.com/marcglasberg/fast_immutable_collections
 [kt_dart]: https://github.com/passsy/kt.dart
+[marcglasberg]: https://github.com/marcglasberg
 
 ## 4. Other Outlets
 
@@ -51,7 +57,8 @@ So far, as published/open software, I have:
 
 My interests are random and feature a wide variety of topics, something I've been unambiguously complimented on and criticized for. If you want to know more, do check my website out: [fanaro.com.br][my_website].
 
-Another major on-and-off interest of mine is in the game of ○● Go ●○ (Baduk or Weiqi (囲碁 or 바둑 or 围棋)). I have some articles about it in my website and have some videos on my YouTube channel as well &mdash; the videos are in Portuguese.
+Another major on-and-off interest of mine is in the game of ○● [Go][go_wikipedia] ●○ (Baduk or Weiqi (囲碁 or 바둑 or 围棋)). I have some articles about it in my website and have some videos on my YouTube channel as well &mdash; the videos are in Portuguese.
 
 
+[go_wikipedia]: https://en.wikipedia.org/wiki/Go_(game)
 [my_website]: https://fanaro.com.br/
