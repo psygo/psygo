@@ -18,7 +18,18 @@ So far, as published/open software, I have:
 
 [youtube_kbd_nav]: https://github.com/FanaroEngineering/youtube_kbd_nav
 
-## 3. Other Outlets
+## 3. Contributions
+
+- [Fast Immutable Collections][fast_immutable_collections]: Immutable collections for Dart, which are also faster than its competitors, like [kt_dart][kt_dart] and [built_collection][built_collection].
+    - @marcglasberg asked me if I wanted to participate in his project as a contributor. Almost all of the key ideas are his.
+    - Should be done in the next few weeks.
+
+
+[built_collection]: https://github.com/google/built_collection.dart
+[fast_immutable_collections]: https://github.com/marcglasberg/fast_immutable_collections
+[kt_dart]: https://github.com/passsy/kt.dart
+
+## 4. Other Outlets
 
 [<img align="left" alt="fanaro.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][my_website]
 [<img align="left" alt="Philippe Fanaro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -36,7 +47,7 @@ So far, as published/open software, I have:
 [youtube]: https://www.youtube.com/channel/UCuUK6AAtvo8cTFOJ3OOg9Mw?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/philippe-fanaro/
 
-## 4. Other Stuff
+## 5. Other Stuff
 
 My interests are random and feature a wide variety of topics, something I've been unambiguously complimented on and criticized for. If you want to know more, do check my website out: [fanaro.com.br][my_website].
 
