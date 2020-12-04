@@ -10,18 +10,20 @@ I'm a Brazilian native, so I speak Portuguese, but I also speak English and Fren
 
 So far, as published/open software, I have:
 
-- [YouTube Keyboard Navigation Extension][youtube_kbd_nav]: a browser extension which adds keyboard shortcuts to YouTube's browser UI.
+- [![YouTube Kbd Nav][youtube_kbd_nav_png]][youtube_kbd_nav] [YouTube Keyboard Navigation Extension][youtube_kbd_nav]: a browser extension which adds keyboard shortcuts to YouTube's browser UI.
     - Made with Dart 🎯
     - Quite stable, I use it on a daily basis. It still conflicts with some of YouTube's UI, but this problem is quite minimal.
     - Currently working with Chrome, Edge and Firefox, though full support for Firefox won't be maintained.
-- [OGS Keyboard Navigation Extension][ogs_kbd_nav]: a browser extension for playing go on [OGS][ogs] with only the keyboard.
+- [![OGS Kbd Nav][ogs_kbd_nav_png]][ogs_kbd_nav] [OGS Keyboard Navigation Extension][ogs_kbd_nav]: a browser extension for playing go on [OGS][ogs] with only the keyboard.
     - Made with TypeScript.
     - It offers a way of navigating the online Goban with your arrow keys or typing in the coordinates.
 
 
 [ogs]: https://online-go.com
 [ogs_kbd_nav]: https://github.com/FanaroEngineering/ogs_kbd_nav
+[ogs_kbd_nav_png]: assets/ogs_kbd_nav.png
 [youtube_kbd_nav]: https://github.com/FanaroEngineering/youtube_kbd_nav
+[youtube_kbd_nav_png]: assets/youtube_kbd_nav.png
 
 ## 3. Contributions
 
