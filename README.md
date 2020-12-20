@@ -1,6 +1,12 @@
+<p align="center">
+  <a href="https://fanaro.io"><img src="assets/logo_400.png" height="100px" alt="Logo" /></a>
+</p>
+
 ## 1. Summary
 
 ( 💻 Dev | Design 🎨 ) { 💙 Flutter | Dart 🎯 } { 💾 TypeScript JS | HTML CSS 🖌 }
+
+> Visit my website: [fanaro.io][fanaro.io]
 
 I'm currently a solo developer creating apps and websites with Flutter, Dart, TypeScript, JavaScript, HTML and CSS. I also have experience with Docker, Python, Django, Kubernetes and some other stuff. However for most of these I would have to dust off my knowledge before fully using it back again.
 
@@ -37,7 +43,7 @@ So far, as published/open software, I have:
 
 ## 4. Other Outlets
 
-[<img align="left" alt="fanaro.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][my_website]
+[<img align="left" alt="fanaro.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][fanaro.io]
 [<img align="left" alt="Philippe Fanaro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Philippe Fanaro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Philippe Fanaro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
@@ -48,17 +54,17 @@ So far, as published/open software, I have:
 
 
 [instagram]: https://www.instagram.com/fanaro009/
-[twitter]: https://twitter.com/PFanaro
-[stackoverflow]: https://stackoverflow.com/users/4756173/philippe-fanaro?tab=profile
-[youtube]: https://www.youtube.com/channel/UCuUK6AAtvo8cTFOJ3OOg9Mw?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/philippe-fanaro/
+[fanaro.io]: https://fanaro.io/
+[stackoverflow]: https://stackoverflow.com/users/4756173/philippe-fanaro?tab=profile
+[twitter]: https://twitter.com/PFanaro
+[youtube]: https://www.youtube.com/channel/UCuUK6AAtvo8cTFOJ3OOg9Mw?view_as=subscriber
 
 ## 5. Other Stuff
 
-My interests are random and feature a wide variety of topics, something I've been unambiguously complimented on and criticized for. If you want to know more, do check my website out: [fanaro.com.br][my_website].
+My interests are random and feature a wide variety of topics, something I've been unambiguously complimented on and criticized for. If you want to know more, do check my website out: [fanaro.io][fanaro.io].
 
 Another major on-and-off interest of mine is in the game of ○● [Go][go_wikipedia] ●○ (Baduk or Weiqi (囲碁 or 바둑 or 围棋)). I have some articles about it in my website and have some videos on my YouTube channel as well &mdash; the videos are in Portuguese.
 
 
 [go_wikipedia]: https://en.wikipedia.org/wiki/Go_(game)
-[my_website]: https://fanaro.com.br/
