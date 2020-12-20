@@ -2,9 +2,11 @@
   <a href="https://fanaro.io"><img src="assets/logo_400.png" height="100px" alt="Logo" /></a>
 </p>
 
-## 1. Summary
+<p align="center">
+  ( 💻 Dev | Design 🎨 ) { 💙 Flutter | Dart 🎯 } { 💾 TypeScript JS | HTML CSS 🖌 }
+</p>
 
-( 💻 Dev | Design 🎨 ) { 💙 Flutter | Dart 🎯 } { 💾 TypeScript JS | HTML CSS 🖌 }
+## 1. Summary
 
 > Visit my website: [fanaro.io][fanaro.io]
 
