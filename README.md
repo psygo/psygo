@@ -3,7 +3,15 @@
 </p>
 
 <p align="center">
-  ( 💻 Dev | Design 🎨 ) { 💙 Flutter | Dart 🎯 } { 💾 TypeScript JS | HTML CSS 🖌 }
+  ( 💻 Dev | Design 🎨 ) 
+</p>
+
+<p align="center">
+  { 💙 Flutter | Dart 🎯 }
+</p>
+
+<p align="center">
+  { 💾 TypeScript JS | HTML CSS 🖌 }
 </p>
 
 ## 1. Summary
