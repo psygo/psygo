@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <a href="https://www.buymeacoffee.com/psygo"><img src="assets/buy_me_a_coffee_shield.svg" alt="Buy Me A Coffee" /></a>
+  <a href="https://gitter.im/fanaroio/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img src="https://badges.gitter.im/fanaroio/community.svg" alt="Gitter" /></a>
+</p>
+
+<p align="center">
   ( 💻 Dev | Design 🎨 ) 
 </p>
 
@@ -13,6 +18,8 @@
 <p align="center">
   { 💾 TypeScript JS | HTML CSS 🖌 }
 </p>
+
+---
 
 ## 1. Summary
 
