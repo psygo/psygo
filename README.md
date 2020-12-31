@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fanaro.io"><img src="assets/logo_400.png" height="100px" alt="Logo" /></a>
+  <a href="https://fanaro.io"><img src="assets/logo.png" height="100px" alt="Logo" /></a>
 </p>
 
 <p align="center">
@@ -33,6 +33,8 @@ I'm a Brazilian native, so I speak Portuguese, but I also speak English and Fren
 
 So far, as published/open software, I have:
 
+- [<img alt="fanaro.io" width="15px" src="assets/logo.png"/>][fanaro.io] [fanaro.io][fanaro.io]: my blog, a place for UI/UX experimentation with the simplest and most effective designs for reading, and also for sharing my hopefully helpful world view.
+    - The most prominent topics are: [Go][go_wikipedia], programming, productivity, design and psychology.
 - [<img alt="YouTube Kbd Nav" width="16px" src="assets/youtube_kbd_nav.svg"/>][youtube_kbd_nav] [YouTube Keyboard Navigation Extension][youtube_kbd_nav]: a browser extension which adds keyboard shortcuts to YouTube's browser UI.
     - Made with Dart 🎯
     - Quite stable, I use it on a daily basis. It still conflicts with some of YouTube's UI, but this problem is quite minimal.
@@ -46,10 +48,11 @@ So far, as published/open software, I have:
 [ogs_kbd_nav]: https://github.com/FanaroEngineering/ogs_kbd_nav
 [youtube_kbd_nav]: https://github.com/FanaroEngineering/youtube_kbd_nav
 
-## 3. Contributions
+## 3. Co-authorship
 
-- [Fast Immutable Collections][fast_immutable_collections]: Immutable collections for Dart, which are also faster than its competitors, like [kt_dart][kt_dart] and [built_collection][built_collection].
+- [<img alt="Fast Immutable Collections" height="13px" src="assets/fic_logo.png"/>][fast_immutable_collections] [Fast Immutable Collections][fast_immutable_collections]: Immutable collections for Dart, which are also faster than its competitors, like [kt_dart][kt_dart] and [built_collection][built_collection].
     - [@marcglasberg][marcglasberg] asked me if I wanted to participate in his project as a contributor. Almost all of the key ideas are his.
+    - It features a benchmark app so you can compare it to its competitors.
     - Should be done in the next few weeks at most.
 
 
