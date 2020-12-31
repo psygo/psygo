@@ -63,18 +63,15 @@ So far, as published/open software, I have:
 
 ## 4. Other Outlets
 
-[<img align="left" alt="fanaro.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][fanaro.io]
-[<img align="left" alt="Philippe Fanaro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Philippe Fanaro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Philippe Fanaro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="Philippe Fanaro | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Philippe Fanaro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Philippe Fanaro | Instagram" width="22px" src="assets/instagram.svg" />][instagram]
+[<img align="left" alt="Philippe Fanaro | Twitter" width="22px" src="assets/twitter.svg" />][twitter]
+[<img align="left" alt="Philippe Fanaro | LinkedIn" width="22px" src="assets/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="Philippe Fanaro | YouTube" width="22px" src="assets/youtube.svg" />][youtube]
 
 <br>
 
 
 [instagram]: https://www.instagram.com/fanaro009/
-[linkedin]: https://www.linkedin.com/in/philippe-fanaro/
 [fanaro.io]: https://fanaro.io/
 [stackoverflow]: https://stackoverflow.com/users/4756173/philippe-fanaro?tab=profile
 [twitter]: https://twitter.com/PFanaro
