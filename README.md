@@ -53,10 +53,11 @@ So far, as published/open software, I have:
 - [<img alt="Fast Immutable Collections" height="13px" src="assets/fic_logo.png"/>][fast_immutable_collections] [Fast Immutable Collections][fast_immutable_collections]: Immutable collections for Dart, which are also faster than its competitors, like [kt_dart][kt_dart] and [built_collection][built_collection].
     - [@marcglasberg][marcglasberg] asked me if I wanted to participate in his project as a contributor. Almost all of the key ideas are his.
     - It features a benchmark app so you can compare it to its competitors.
-    - Should be done in the next few weeks at most.
+    - [Here][fanaro.io_fic] is the article on my website.
 
 
 [built_collection]: https://github.com/google/built_collection.dart
+[fanaro.io_fic]: https://fanaro.io/articles/fic/fic.html
 [fast_immutable_collections]: https://github.com/marcglasberg/fast_immutable_collections
 [kt_dart]: https://github.com/passsy/kt.dart
 [marcglasberg]: https://github.com/marcglasberg
