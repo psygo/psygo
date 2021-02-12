@@ -48,7 +48,7 @@ So far, as published/open software, I have:
 [ogs_kbd_nav]: https://github.com/FanaroEngineering/ogs_kbd_nav
 [youtube_kbd_nav]: https://github.com/FanaroEngineering/youtube_kbd_nav
 
-## 3. Co-authorship
+## 3. Co-Authorship
 
 - [<img alt="Fast Immutable Collections" height="13px" src="assets/fic_logo.png"/>][fast_immutable_collections] [Fast Immutable Collections][fast_immutable_collections]: Immutable collections for Dart, which are also faster than its competitors, like [kt_dart][kt_dart] and [built_collection][built_collection].
     - [@marcglasberg][marcglasberg] asked me if I wanted to participate in his project as a contributor. Almost all of the key ideas are his.
