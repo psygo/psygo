@@ -29,6 +29,11 @@ I'm currently a solo developer creating apps and websites with Flutter, Dart, Ty
 
 I'm a Brazilian native, so I speak Portuguese, but I also speak English and French.
 
+> I'm an on-and-off Linux and Vim user, and you can check out [my dotfiles][dotfiles]. I still have a lot of software dependencies &mdash; addictions? &mdash; on Windows though, like the Adobe Creative Cloud suite.
+
+
+[dotfiles]: https://github.com/psygo/dotfiles
+
 ## 2. My Published/Open Software
 
 So far, as published/open software, I have:
