@@ -85,7 +85,7 @@ So far, as published/open software, I have:
 
 The ranking below follows the one typically seen in martial arts, like (Brazilian) Jiu Jitsu. Note that each level demands exponentially more skill, knowledge and experience.
 
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>Competence</th>
