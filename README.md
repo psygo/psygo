@@ -85,6 +85,8 @@ So far, as published/open software, I have:
 
 The ranking below follows the one typically seen in martial arts, like (Brazilian) Jiu Jitsu. Note that each level demands exponentially more skill, knowledge and experience.
 
+> Don't take this too seriously: there's always a bigger fish.
+
 <table align="center">
   <thead>
     <tr>
@@ -94,12 +96,28 @@ The ranking below follows the one typically seen in martial arts, like (Brazilia
   </thead>
   <tbody>
     <tr>
+      <td>Portuguese</td>
+      <td>Black</td>
+    </tr>
+    <tr>
+      <td>English</td>
+      <td>Black</td>
+    </tr>
+    <tr>
+      <td>Go</td>
+      <td>Black</td>
+    </tr>
+    <tr>
       <td>Dart</td>
       <td>Black</td>
     </tr>
     <tr>
       <td>Markdown</td>
       <td>Black</td>
+    </tr>
+    <tr>
+      <td>French</td>
+      <td>Brown</td>
     </tr>
     <tr>
       <td>OOP</td>
@@ -146,6 +164,14 @@ The ranking below follows the one typically seen in martial arts, like (Brazilia
       <td>Purple</td>
     </tr>
     <tr>
+      <td>Backgammon</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
+      <td>Poker</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
       <td>Docker</td>
       <td>Purple</td>
     </tr>
@@ -188,6 +214,22 @@ The ranking below follows the one typically seen in martial arts, like (Brazilia
     <tr>
       <td>Structured Programming</td>
       <td>Blue</td>
+    </tr>
+    <tr>
+      <td>Chinese</td>
+      <td>White</td>
+    </tr>
+    <tr>
+      <td>Korean</td>
+      <td>White</td>
+    </tr>
+    <tr>
+      <td>Chess</td>
+      <td>White</td>
+    </tr>
+    <tr>
+      <td>Jiu Jitsu</td>
+      <td>White</td>
     </tr>
     <tr>
       <td>C</td>
