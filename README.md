@@ -136,6 +136,10 @@ The ranking below follows the one typically seen in martial arts, like (Brazilia
       <td>Brown</td>
     </tr>
     <tr>
+      <td>VS Code</td>
+      <td>Brown</td>
+    </tr>
+    <tr>
       <td>HTML</td>
       <td>Brown</td>
     </tr>
@@ -152,6 +156,10 @@ The ranking below follows the one typically seen in martial arts, like (Brazilia
       <td>Purple</td>
     </tr>
     <tr>
+      <td>IntelliJ</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
       <td>SQL</td>
       <td>Purple</td>
     </tr>
@@ -165,6 +173,10 @@ The ranking below follows the one typically seen in martial arts, like (Brazilia
     </tr>
     <tr>
       <td>Backgammon</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
+      <td>Vim</td>
       <td>Purple</td>
     </tr>
     <tr>
@@ -229,6 +241,10 @@ The ranking below follows the one typically seen in martial arts, like (Brazilia
     </tr>
     <tr>
       <td>Jiu Jitsu</td>
+      <td>White</td>
+    </tr>
+    <tr>
+      <td>Emacs</td>
       <td>White</td>
     </tr>
     <tr>
