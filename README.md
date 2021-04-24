@@ -116,6 +116,14 @@ The ranking below follows the one typically seen in martial arts, like (Brazilia
       <td>Black</td>
     </tr>
     <tr>
+      <td>Swimming</td>
+      <td>Brown</td>
+    </tr>
+    <tr>
+      <td>Water Polo</td>
+      <td>Brown</td>
+    </tr>
+    <tr>
       <td>French</td>
       <td>Brown</td>
     </tr>
@@ -225,6 +233,14 @@ The ranking below follows the one typically seen in martial arts, like (Brazilia
     </tr>
     <tr>
       <td>Structured Programming</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <td>Crossfit</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <td>Olympic Weightlifting</td>
       <td>Blue</td>
     </tr>
     <tr>
