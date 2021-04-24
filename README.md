@@ -27,9 +27,11 @@
 
 I'm currently a solo developer creating apps and websites with Flutter, Dart, TypeScript, JavaScript, HTML and CSS. I also have experience with Docker, Python, Django, Kubernetes and some other stuff. However for most of these I would have to dust off my knowledge before fully using it back again.
 
+> Currently, I've been studying a lot of Haskell and functional programming.
+
 I'm a Brazilian native, so I speak Portuguese, but I also speak English and French.
 
-> I'm an on-and-off Linux and Vim user, and you can check out [my dotfiles][dotfiles]. I still have a lot of software dependencies &mdash; addictions? &mdash; on Windows though, like the Adobe Creative Cloud suite.
+> My daily driver is Artix, a distro based on Arch Linux, you can check out [my dotfiles][dotfiles]. I still have some software dependencies &mdash; addictions? &mdash; on Windows though, mostly due to working with others..
 
 
 [dotfiles]: https://github.com/psygo/dotfiles
@@ -83,7 +85,48 @@ So far, as published/open software, I have:
 [twitter]: https://twitter.com/PFanaro
 [youtube]: https://www.youtube.com/channel/UCuUK6AAtvo8cTFOJ3OOg9Mw?view_as=subscriber
 
-## 5. Other Stuff
+## 5. My Competences
+
+The ranking below follows the one typically seen in martial arts, like (Brazilian) Jiu Jitsu. Note that each level demands exponentially more skill, knowledge and experience.
+
+| Competence   | Level (Belt) |
+| ------------ | ------------ |
+| Dart         | Black        |
+| Markdown     | Black        |
+| Flutter      | Brown        |
+| Git          | Brown        |
+| Python       | Brown        |
+| HTML         | Brown        |
+| CSS          | Purple       |
+| TypeScript   | Purple       |
+| Linux        | Purple       |
+| SQL          | Purple       |
+| NoSQL        | Purple       |
+| Shell        | Purple       |
+| Docker       | Purple       |
+| JSON         | Purple       |
+| YAML         | Blue         |
+| Haskell      | Blue         |
+| JavaScript   | Blue         |
+| Matlab       | Blue         |
+| Blockchain   | Blue         |
+| Kubernetes   | Blue         |
+| Django       | Blue         |
+| C            | White        |
+| Java         | White        |
+| Raspberry Pi | White        |
+
+If you don't know anything about the belt system, here is a quick and dirty summary:
+
+| Belt   | Explanation                                           |
+| ------ | ----------------------------------------------------- |
+| White  | Padawan, first steps into the forest                  |
+| Blue   | Competent survivor                                    |
+| Purple | You have your own sharpened blade the way you like it |
+| Brown  | You can fight anyone, anywhere                        |
+| Black  | Complete master, can kill you with a plastic fork     |
+
+## 6. Other Stuff
 
 My interests are random and feature a wide variety of topics, something I've been unambiguously complimented on and criticized for. If you want to know more, do check my website out: [fanaro.io][fanaro.io].
 
