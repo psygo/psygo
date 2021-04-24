@@ -160,6 +160,22 @@ The ranking below follows the one typically seen in martial arts, like (Brazilia
       <td>Purple</td>
     </tr>
     <tr>
+      <td>Adobe Illustrator</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
+      <td>Adobe XD</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
+      <td>Adobe Photoshop</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
+      <td>Adobe Premiere Pro</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
       <td>Linux</td>
       <td>Purple</td>
     </tr>
@@ -209,6 +225,14 @@ The ranking below follows the one typically seen in martial arts, like (Brazilia
     </tr>
     <tr>
       <td>Haskell</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <td>GIMP</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <td>Inkscape</td>
       <td>Blue</td>
     </tr>
     <tr>
