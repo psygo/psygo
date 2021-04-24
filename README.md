@@ -117,6 +117,37 @@ The ranking below follows the one typically seen in martial arts, like (Brazilia
 
 If you don't know anything about the belt system, here is a quick and dirty summary:
 
+<table align="center">
+  <thead>
+    <tr>
+      <th>Belt</th>
+      <th>Explanation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>White</td>
+      <td>Padawan, first steps into the forest</td>
+    </tr>
+    <tr>
+      <td>Blue</td>
+      <td>Competent survivor</td>
+    </tr>
+    <tr>
+      <td>Purple</td>
+      <td>You have your own sharpened blade the way you like it</td>
+    </tr>
+    <tr>
+      <td>Brown</td>
+      <td>You can fight anyone, anywhere</td>
+    </tr>
+    <tr>
+      <td>Black</td>
+      <td>Complete master, can kill you with a plastic fork</td>
+    </tr>
+  </tbody>
+</table>
+
 | Belt   | Explanation                                           |
 | ------ | ----------------------------------------------------- |
 | White  | Padawan, first steps into the forest                  |
