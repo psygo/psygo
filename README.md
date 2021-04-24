@@ -85,35 +85,124 @@ So far, as published/open software, I have:
 
 The ranking below follows the one typically seen in martial arts, like (Brazilian) Jiu Jitsu. Note that each level demands exponentially more skill, knowledge and experience.
 
-| Competence             | Level (Belt) |
-| ---------------------- | ------------ |
-| Dart                   | Black        |
-| Markdown               | Black        |
-| OOP                    | Brown        |
-| Flutter                | Brown        |
-| Git                    | Brown        |
-| Python                 | Brown        |
-| HTML                   | Brown        |
-| CSS                    | Purple       |
-| TypeScript             | Purple       |
-| Linux                  | Purple       |
-| SQL                    | Purple       |
-| NoSQL                  | Purple       |
-| Shell                  | Purple       |
-| Docker                 | Purple       |
-| JSON                   | Purple       |
-| YAML                   | Blue         |
-| Functional Programming | Blue         |
-| Haskell                | Blue         |
-| JavaScript             | Blue         |
-| Matlab                 | Blue         |
-| Blockchain             | Blue         |
-| Kubernetes             | Blue         |
-| Django                 | Blue         |
-| Structured Programming | Blue         |
-| C                      | White        |
-| Java                   | White        |
-| Raspberry Pi           | White        |
+<table>
+  <thead>
+    <tr>
+      <th>Competence</th>
+      <th>Level (Belt)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dart</td>
+      <td>Black</td>
+    </tr>
+    <tr>
+      <td>Markdown</td>
+      <td>Black</td>
+    </tr>
+    <tr>
+      <td>OOP</td>
+      <td>Brown</td>
+    </tr>
+    <tr>
+      <td>Flutter</td>
+      <td>Brown</td>
+    </tr>
+    <tr>
+      <td>Git</td>
+      <td>Brown</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>Brown</td>
+    </tr>
+    <tr>
+      <td>HTML</td>
+      <td>Brown</td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
+      <td>TypeScript</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
+      <td>Linux</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
+      <td>SQL</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
+      <td>NoSQL</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
+      <td>Shell</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
+      <td>Docker</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
+      <td>JSON</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
+      <td>YAML</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <td>Functional Programming</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <td>Haskell</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <td>Matlab</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <td>Blockchain</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <td>Kubernetes</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <td>Django</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <td>Structured Programming</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>White</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>White</td>
+    </tr>
+    <tr>
+      <td>Raspberry Pi</td>
+      <td>White</td>
+    </tr>
+  </tbody>
+</table>
 
 If you don't know anything about the belt system, here is a quick and dirty summary:
 
@@ -147,14 +236,6 @@ If you don't know anything about the belt system, here is a quick and dirty summ
     </tr>
   </tbody>
 </table>
-
-| Belt   | Explanation                                           |
-| ------ | ----------------------------------------------------- |
-| White  | Padawan, first steps into the forest                  |
-| Blue   | Competent survivor                                    |
-| Purple | You have your own sharpened blade the way you like it |
-| Brown  | You can fight anyone, anywhere                        |
-| Black  | Complete master, can kill you with a plastic fork     |
 
 ## 6. Other Stuff
 
