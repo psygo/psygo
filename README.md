@@ -66,7 +66,15 @@ So far, as published/open software, I have:
 [kt_dart]: https://github.com/passsy/kt.dart
 [marcglasberg]: https://github.com/marcglasberg
 
-## 4. Other Outlets
+## 4. Other Projects
+
+- [Fanaro's Sabaki Theme Collection][sabaki_themes]: a collection of themes and helpful documentation for creating themes for the SGF Go editor [Sabaki][sabaki].
+
+
+[sabaki]: https://sabaki.yichuanshen.de/
+[sabaki_themes]: https://github.com/FanaroEngineering/fanaro_sabaki_theme_collection
+
+## 5. Other Outlets
 
 [<img align="left" alt="Philippe Fanaro | Instagram" width="22px" src="assets/instagram.svg" />][instagram]
 [<img align="left" alt="Philippe Fanaro | Twitter" width="22px" src="assets/twitter.svg" />][twitter]
@@ -81,7 +89,7 @@ So far, as published/open software, I have:
 [twitter]: https://twitter.com/PFanaro
 [youtube]: https://www.youtube.com/channel/UCuUK6AAtvo8cTFOJ3OOg9Mw?view_as=subscriber
 
-## 5. My Competences
+## 6. My Competences
 
 The ranking below follows the one typically seen in martial arts, like (Brazilian) Jiu Jitsu. Note that each level demands exponentially more skill, knowledge and experience.
 
@@ -343,7 +351,7 @@ If you don't know anything about the belt system, here is a quick and dirty summ
   </tbody>
 </table>
 
-## 6. Other Stuff
+## 7. Other Stuff
 
 My interests are random and feature a wide variety of topics, something I've been unambiguously complimented on and criticized for. If you want to know more, do check my website out: [fanaro.io][fanaro.io].
 
