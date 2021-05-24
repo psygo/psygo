@@ -268,6 +268,10 @@ The ranking below follows the one typically seen in martial arts, like (Brazilia
       <td>Blue</td>
     </tr>
     <tr>
+      <td>Data Science & Machine Learning</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
       <td>Chinese</td>
       <td>White</td>
     </tr>
@@ -297,6 +301,10 @@ The ranking below follows the one typically seen in martial arts, like (Brazilia
     </tr>
     <tr>
       <td>Raspberry Pi</td>
+      <td>White</td>
+    </tr>
+    <tr>
+      <td>Category Theory</td>
       <td>White</td>
     </tr>
   </tbody>
