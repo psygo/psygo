@@ -93,7 +93,30 @@ So far, as published/open software, I have:
 
 A fairly comprehensive and entertaining list of my competences can be found on my website [here](https://fanaro.io/competences.html).
 
-## 7. Other Stuff
+## 7. Some Statistics about My Work
+
+Here are some statistics about my work on Github:
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=psygo&show_icons=true&theme=algolia"
+  alt="Github Statistics about the user psygo"
+/>
+
+My top language should be Dart &mdash; at least at the date I mentioned above &mdash;, but I've mostly written in it for other people, so this is what you get:
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=psygo&theme=algolia&hide=jupyter%20notebook,html"
+  alt="Top languages from user psygo"
+/>
+
+Maybe it's more accurate to classify my language interests at the moment with a chart for the last week:
+
+<img
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=psygo&layout=compact&theme=algolia"
+  alt="Wakatime's Week Stats for user psygo"
+/>
+
+## 8. Other Stuff
 
 My interests are random and feature a wide variety of topics, something I've been unambiguously complimented on and criticized for. If you want to know more, do check my website out: [fanaro.io][fanaro.io].
 
