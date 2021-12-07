@@ -1,8 +1,9 @@
-.Player-rank, .Player-username {
+.Player-username {
     font-size: 2em;
     font-variant-caps: small-caps;
 }
 
-#main-content>div, .Card {
+.container {
+    max-width: none !important;
     background-color: #21222c;
 }
