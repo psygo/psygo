@@ -1,3 +1,8 @@
-.container {
-    background: #21222c;
+.Player-rank, .Player-username {
+    font-size: 2em;
+    font-variant-caps: small-caps;
+}
+
+#main-content>div, .Card {
+    background-color: #21222c;
 }
