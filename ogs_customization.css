@@ -7,8 +7,12 @@
 
 .container {
     max-width: none !important;
-    /* background-image: url('https://i.imgur.com/cyHhCdz.png'); /* psychedelic desert */
-    background-image: url('https://media4.giphy.com/media/eJoGJF8lASakPof1h2/giphy.gif?cid=790b76113b8c6801806a5cbc6c1f2fbf2112fde8d1f5bb95&rid=giphy.gif'); /* pink dracula castle */
-    /* backgroun-image: url('https://i.pinimg.com/originals/9d/3a/41/9d3a41e1e7e6dcf1d4bd2fcbc56779e7.gif'); /* plage gif */
     /* background-color: #21222c; */
+    
+    /* Images */
+    
+    /* Joaninha */         background-image: url('https://i.imgur.com/n4LeSqO.jpeg');
+    /* psychedelic desert  background-image: url('https://i.imgur.com/cyHhCdz.png'); */
+    /* pink dracula castle background-image: url('https://media4.giphy.com/media/eJoGJF8lASakPof1h2/giphy.gif?cid=790b76113b8c6801806a5cbc6c1f2fbf2112fde8d1f5bb95&rid=giphy.gif'); */
+    /* plage gif           backgroun-image: url('https://i.pinimg.com/originals/9d/3a/41/9d3a41e1e7e6dcf1d4bd2fcbc56779e7.gif'); */
 }
