@@ -69,6 +69,7 @@ So far, as published/open software, I have:
 ## 4. Other Projects
 
 - [Fanaro's Sabaki Theme Collection][sabaki_themes]: a collection of themes and helpful documentation for creating themes for the SGF Go editor [Sabaki][sabaki].
+- [Como Jogar Go &mdash; Uma Introdução Concisa](https://github.com/FanaroEngineering/traducao_como_jogar_go): the translation of Kiseido's Book [How to Play Go &mdash; A Concise Introduction](https://www.goodreads.com/book/show/35663792-how-to-play-go-a-concise-introduction?ac=1&from_search=true&qid=BPOysUtlJm&rank=1), by Richard Bozulich and James Davies. Everything in that project is open source, done with LaTeX and [GoWrite2](http://gowrite.net/GOWrite2_download.html), so, in case you would like to know how a Go book *can* be made, there it is.
 
 
 [sabaki]: https://sabaki.yichuanshen.de/
