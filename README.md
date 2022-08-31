@@ -72,6 +72,7 @@ So far, as published/open software, I have:
 - [Como Jogar Go &mdash; Uma Introdução Concisa](https://github.com/FanaroEngineering/traducao_como_jogar_go): the translation of Kiseido's Book [How to Play Go &mdash; A Concise Introduction](https://www.goodreads.com/book/show/35663792-how-to-play-go-a-concise-introduction?ac=1&from_search=true&qid=BPOysUtlJm&rank=1), by Richard Bozulich and James Davies. Everything in that project is open source, done with LaTeX and [GoWrite2](http://gowrite.net/GOWrite2_download.html), so, in case you would like to know how a Go book *can* be made, there it is.
 - [DOGemP's Flutter Website](https://github.com/FanaroEngineering/dogemp): a front-end, made with Flutter for the online dojo I created. This is a side project mostly used for derusting my Flutter abilities.
 - [How to write your own Go ebook](https://github.com/psygo/template_tsumego_ebook): using [Pandoc](https://pandoc.org/) and [GoWrite2](http://gowrite.net/GOWrite2_download.html).
+- [My AlgoExpert Solutions](https://github.com/psygo/algoexpert): continuous practice of algorithms and data structures problems
 
 
 [sabaki]: https://sabaki.yichuanshen.de/
