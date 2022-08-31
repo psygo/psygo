@@ -94,7 +94,7 @@ So far, as published/open software, I have:
 
 ## 6. My Competences
 
-A fairly comprehensive and entertaining list of my competences can be found on my website [here](https://fanaro.io/competences.html).
+A fairly comprehensive and entertaining list of my competences can be found on my website [here](https://fanaro.io/pages/competences.html).
 
 ## 7. Some Statistics about My Work
 
