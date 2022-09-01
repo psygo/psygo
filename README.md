@@ -80,6 +80,8 @@ So far, as published/open software, I have:
 
 ## 5. Other Outlets
 
+<a href="https://stackoverflow.com/users/4756173/philippe-fanaro"><img src="https://stackoverflow.com/users/flair/4756173.png?theme=dark" width="208" height="58" alt="profile for Philippe Fanaro at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Philippe Fanaro at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 [<img align="left" alt="Philippe Fanaro | Instagram" width="22px" src="assets/instagram.svg" />][instagram]
 [<img align="left" alt="Philippe Fanaro | Twitter" width="22px" src="assets/twitter.svg" />][twitter]
 [<img align="left" alt="Philippe Fanaro | LinkedIn" width="22px" src="assets/stackoverflow.svg" />][stackoverflow]
