@@ -48,7 +48,11 @@ So far, as published/open software, I have:
 - [<img alt="OGS Kbd Nav" width="16px" src="assets/ogs_kbd_nav.svg"/>][ogs_kbd_nav] [OGS Keyboard Navigation Extension][ogs_kbd_nav]: a browser extension for playing go on [OGS][ogs] with only the keyboard.
   - Made with TypeScript.
   - It offers a way of navigating the online Goban with your arrow keys or typing in the coordinates.
-
+- [Go Brazil Ranking](https://github.com/psygo/go-brasil-ranking): a website made for ranking Go players as well as archiving games.
+  - Recursive Elo ranking of games/players.
+  - SPA made with pure HTML/CSS/TS, no frameworks at all.
+  - Firebase Firestore and Functions backend.
+  
 [ogs]: https://online-go.com
 [ogs_kbd_nav]: https://github.com/FanaroEngineering/ogs_kbd_nav
 [youtube_kbd_nav]: https://github.com/FanaroEngineering/youtube_kbd_nav
