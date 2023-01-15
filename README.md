@@ -23,6 +23,8 @@
 
 ## 1. Summary
 
+> Here's my [LinkedIn](https://www.linkedin.com/in/philippe-fanaro/)
+
 > Visit my website: [fanaro.io][fanaro.io]
 
 I'm currently a solo developer creating apps and websites with Flutter, Dart, TypeScript, JavaScript, HTML and CSS. I also have experience with Docker, Python, Django, Kubernetes and some other stuff. However for most of these I would have to dust off my knowledge before fully using it back again.
