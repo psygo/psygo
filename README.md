@@ -59,6 +59,14 @@ So far, as published/open software, I have:
 [ogs_kbd_nav]: https://github.com/FanaroEngineering/ogs_kbd_nav
 [youtube_kbd_nav]: https://github.com/FanaroEngineering/youtube_kbd_nav
 
+### Proof of Concept
+
+Here are some projects I've done just to prove, for myself and maybe for others, that it worked and how:
+
+- [Go Pattern Search](https://github.com/psygo/go_pattern_search): a way of searching patterns in Go (board game), through graph search (Neo4j DBMS).
+  - Inspired by [Waltheri's Pattern Search](http://ps.waltheri.net/), which used board position comparisons (matrices).
+  - This is also possible through *regular expressions*, since Go games can be encoded in text, through the SGF format.
+
 ## 3. Co-Authorship
 
 - [<img alt="Fast Immutable Collections" height="13px" src="assets/fic_logo.png"/>][fast_immutable_collections] [Fast Immutable Collections][fast_immutable_collections]: Immutable collections for Dart, which are also faster than its competitors, like [kt_dart][kt_dart] and [built_collection][built_collection].
