@@ -23,6 +23,8 @@
 
 ## 1. Summary
 
+> Here's my [Three.js Portfolio](https://three-portfolio-mu.vercel.app/) (more like an entrypoint...)
+
 > Here's my [LinkedIn](https://www.linkedin.com/in/philippe-fanaro/)
 
 > Visit my website: [fanaro.io][fanaro.io]
@@ -54,6 +56,7 @@ So far, as published/open software, I have:
   - Recursive Elo ranking of games/players.
   - SPA made with pure HTML/CSS/TS, no frameworks at all.
   - Firebase Firestore and Functions backend.
+- [My Three.js Portfolio](https://three-portfolio-mu.vercel.app/): it's more like an entry point. It uses React and Three.js.
   
 [ogs]: https://online-go.com
 [ogs_kbd_nav]: https://github.com/FanaroEngineering/ogs_kbd_nav
