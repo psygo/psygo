@@ -90,6 +90,7 @@ Here are some projects I've done just to prove, for myself and maybe for others,
 - [DOGemP's Flutter Website](https://github.com/FanaroEngineering/dogemp): a front-end, made with Flutter for the online dojo I created. This is a side project mostly used for derusting my Flutter abilities.
 - [How to write your own Go ebook](https://github.com/psygo/template_tsumego_ebook): using [Pandoc](https://pandoc.org/) and [GoWrite2](http://gowrite.net/GOWrite2_download.html).
 - [My AlgoExpert Solutions](https://github.com/psygo/algoexpert): continuous practice of algorithms and data structures problems
+- [My 2023 CV in LaTeX](https://github.com/psygo/cv-2023)
 
 
 [sabaki]: https://sabaki.yichuanshen.de/
