@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  ( 💻 Dev | Design 🎨 ) 
+  💻 Dev | Design 🎨
 </p>
 
 <p align="center">
-  { Next.js | React.js | React Native }
+  Next.js | React.js | React Native
 </p>
 
 <p align="center">
-  { 💾 TypeScript | HTML CSS 🖌 }
+  💾 TypeScript | HTML CSS 🖌
 </p>
