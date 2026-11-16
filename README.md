@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Next.js | React.js | React Native
+  Next.js | React | React Native
 </p>
 
 <p align="center">
